@@ -14,4 +14,4 @@
 
 [<img align="left" alt="faolias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/faolias-metang
+[linkedin]: https://linkedin.com/in/faolias-metang-5161b6205/
